@@ -116,3 +116,4 @@ Stretch Questions
         display inline: <a> <span> <img>
         display inline-block: <button>
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+        The box model creates a container for content, with padding around that, and a margin for the webpage. 
